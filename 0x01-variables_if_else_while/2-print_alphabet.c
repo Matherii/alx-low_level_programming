@@ -2,8 +2,9 @@
 /**
  * main - Entry point
  *
- * return:  Always 0 (success)
+ * Return:  Always 0 (success)
  */
+
 int main(void)
 {
 	char c;
@@ -15,6 +16,5 @@ int main(void)
 			c++;
 		}
 	putchar('\n');
-	/*return: Always 0 (success)*/
 	return (0);
 }
