@@ -15,5 +15,6 @@ int main(void)
 			c++;
 		}
 	putchar('\n');
+	/*return: Always 0 (success)*/
 	return (0);
 }
