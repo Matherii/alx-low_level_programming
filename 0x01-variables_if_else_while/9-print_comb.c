@@ -8,9 +8,12 @@
 int main(void)
 {
 	int f;
-	for (f = 0; f < 100; f++) {
+
+	for (f = 0; f < 10; f++)
+	{
 		putchar(f + '0');
-		if (f < 99) {
+		if (f < 9)
+		{
 			putchar(',');
 			putchar(' ');
 		}
