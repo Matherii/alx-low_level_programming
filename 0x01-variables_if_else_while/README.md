@@ -4,3 +4,4 @@ print alphabet
 print alphabets lower and upper case
 Print all the letters except q and e
 prints all single digit numbers of base 10 starting from 0
+ prints all single digit numbers of base 10 starting from 0

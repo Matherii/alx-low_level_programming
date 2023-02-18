@@ -9,10 +9,8 @@ int main(void)
 {
 	int f;
 
-	f = 10;
-	while
-		(f < 10 && f >= 0)
-			printf("%d\n", f);
-		f++;
+	for (f = 10; f <= 10; f++)
+		putchar(f);
+	putchar('\n');
 	return (0);
 }
