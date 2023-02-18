@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
 /**
  * main - Entry point
  *
@@ -7,10 +6,12 @@
  */
 int main(void)
 {
-	/*Get the characters to be written*/
-	char ch = 'abcdefghijklmnopqrstuvwxyz';
+	char c;
 
-	/*Write the character to stdout*/
-	putchar(ch);
-
+	c = 'a';
+	while
+		(c <= 'z') {
+			putchar (c);
+		}
 	return (0);
+}
