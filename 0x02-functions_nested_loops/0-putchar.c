@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * main - print _putchar
- *
+ * is written by Ian
  * Return: 0
  */
 
