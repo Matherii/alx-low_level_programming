@@ -8,7 +8,7 @@
 
 int _islower(int c)
 /**
- * Return value for _islower = 99
+ * Return: value for _islower is 99
  */
 
 {
