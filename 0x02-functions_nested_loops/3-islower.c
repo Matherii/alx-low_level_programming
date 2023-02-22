@@ -7,6 +7,9 @@
  */
 
 int _islower(int c)
+/**
+ * Return value for _islower = 99
+ */
 
 {
 	if (c >= 97 && c <= 122)
