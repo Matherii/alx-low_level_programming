@@ -1,5 +1,6 @@
 #include "main.h"
 
+
 /**
  * mul - Multiolies two integers
  * @x: The first number to multiply
